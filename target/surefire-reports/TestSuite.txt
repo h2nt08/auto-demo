@@ -1,13 +1,13 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.751 sec <<< FAILURE!
-test01(test.test)  Time elapsed: 4.481 sec  <<< FAILURE!
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 8.497 sec <<< FAILURE!
+test01(test.test)  Time elapsed: 8.259 sec  <<< FAILURE!
 org.openqa.selenium.WebDriverException: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
-Command duration or timeout: 10 milliseconds
+Command duration or timeout: 11 milliseconds
 Build info: version: '2.34.0', revision: '11cd0ef93615408e0b6b3bfa28defe125906461a', time: '2013-08-06 11:43:14'
 System info: os.name: 'Linux', os.arch: 'amd64', os.version: '3.2.0-51-generic', java.version: '1.6.0_27'
-Session ID: 6dab70c4-fbc5-47e2-aef5-d590150dd8bf
+Session ID: a13c653e-e795-44e6-98fb-fc87059b3ab5
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities [{platform=LINUX, acceptSslCerts=true, javascriptEnabled=true, browserName=firefox, rotatable=false, locationContextEnabled=true, version=22.0, cssSelectorsEnabled=true, databaseEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
 
